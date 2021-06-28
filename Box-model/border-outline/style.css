@@ -1,0 +1,11 @@
+div {
+  width: 100px;
+  height: 100px;
+  margin: 20% auto;
+  border: 10px solid red;
+  border-top: dashed green 10px;
+  /*dotted, solid, dashed, double, groove, ridge, inset, outset,none - props do border*/
+  /*box-sizing: border-box;ficar = a width*/
+  outline: 10px solid blue ;
+  /*mais utilizado para acessibilidade*/
+}

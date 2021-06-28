@@ -1,0 +1,23 @@
+:root {
+  font-size: 16.1px;
+}
+
+p.n1 {
+  font-size: 28px;
+}
+
+p.n2 {
+  font-size: 3em;/*16px x 3*/
+}
+
+p.n3 {
+  font-size: 2rem;/*valor predefinido x 2*/
+}
+
+p.n4 {
+  font-size: 8vh;
+}
+
+p.n5 {
+  font-size: 4vw;
+}

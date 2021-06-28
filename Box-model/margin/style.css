@@ -1,0 +1,17 @@
+div.margin1 {
+  border: 1px solid red;
+  margin: 24px 50px 80px 24px;/*top, right, bottom, left*/
+}
+
+div.margin2 {
+  border: 1px solid black;
+  margin: 24px 80px 60px ;/*top, right-left, bottom*/
+}
+div.margin3 {
+  border: 1px solid blue;
+  margin: 50px 50px;/*top-bottom, right-left*/
+}
+div.margin4 {
+  border: 1px solid green;
+  margin: 60px;/*ALL*/
+}

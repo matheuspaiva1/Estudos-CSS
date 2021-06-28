@@ -1,0 +1,25 @@
+.box {
+  background-image: url(http://source.unsplash.com/random);
+  background-repeat: no-repeat;
+  width: 200px;
+  height: 120px;
+  background-position: center /*bottom, height, left, right, center*/;
+}
+
+.color-rgb {
+  background: rgb(20, 0, 0, 0.8);
+  width: 200px;
+  height: 120px;
+}
+
+.color-hsl {
+  background: hsl(189, 100%, 50%);
+  width: 200px;
+  height: 120px;
+}
+
+.calc {
+  background: hsl(160, 100%, 50%);
+  width: calc(17% + 1.8rem);
+  height: calc(40px + 3rem);
+}
